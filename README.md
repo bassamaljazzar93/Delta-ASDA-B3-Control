@@ -328,23 +328,5 @@ USE AT YOUR OWN RISK!
 ---
 
 
-## 📈 Roadmap
-
-### Version 1.1 (Next Release)
-- [ ] ESP32 support with full documentation
-- [ ] Modbus RTU communication example
-- [ ] Web-based parameter configuration
-- [ ] Position tracking with encoder feedback
-- [ ] Graphical tuning assistant
-
-### Version 2.0 (Future)
-- [ ] Multi-axis coordinated motion
-- [ ] G-code interpreter
-- [ ] HMI touchscreen interface
-- [ ] Industrial IoT integration
-- [ ] Cloud monitoring dashboard
-
----
-
 
 **Happy Building! 🚀**
