@@ -1549,17 +1549,6 @@ Week 5: Production
 
 ---
 
-## 📞 Contact Information
-
-**Project Maintainer:** [Your Name/Organization]
-**Email:** [your-email@example.com]
-**GitHub:** [github.com/yourproject]
-
-**Delta Electronics:**
-- Website: https://www.deltaww.com
-- Support: Check website for regional contacts
-
----
 
 **Version:** 1.0  
 **Last Updated:** October 26, 2025  
