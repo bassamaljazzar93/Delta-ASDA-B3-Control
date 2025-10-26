@@ -327,28 +327,6 @@ USE AT YOUR OWN RISK!
 
 ---
 
-## 📞 Support
-
-### Get Help
-
-1. **Documentation:** Check [`docs/`](docs/) folder first
-2. **Issues:** Search [existing issues](https://github.com/yourusername/Delta-ASDA-B3-Control/issues)
-3. **Discussions:** Join [GitHub Discussions](https://github.com/yourusername/Delta-ASDA-B3-Control/discussions)
-4. **Email:** support@yourproject.com
-
-### Commercial Support
-
-Need custom development or integration?
-- Email: commercial@yourproject.com
-- We offer paid consulting and custom development
-
----
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/Delta-ASDA-B3-Control&type=Date)](https://star-history.com/#yourusername/Delta-ASDA-B3-Control&Date)
-
----
 
 ## 📈 Roadmap
 
