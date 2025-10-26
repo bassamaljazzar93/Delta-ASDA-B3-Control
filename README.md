@@ -51,35 +51,13 @@ Delta-ASDA-B3-Control/
 │
 ├── arduino/                     # Arduino implementations
 │   ├── Delta_ASDA_B3_Mega/      # Arduino Mega version
-│   ├── Delta_ASDA_B3_Uno/       # Arduino Uno version (limited)
-│   └── libraries/               # Required libraries
-│
-├── stm32/                       # STM32 implementations
-│   ├── STM32F103_HAL/           # STM32 HAL version
-│   └── STM32F103_LL/            # STM32 Low-Layer version
 │
 ├── docs/                        # Documentation
 │   ├── COMPLETE_GUIDE.md        # Full step-by-step guide
-│   ├── WIRING_DIAGRAM.md        # Detailed wiring instructions
-│   ├── PARAMETERS.md            # Driver parameter reference
-│   ├── TROUBLESHOOTING.md       # Common issues and solutions
-│   └── API_REFERENCE.md         # Code API documentation
 │
 ├── hardware/                    # Hardware files
-│   ├── schematics/              # Circuit diagrams
-│   ├── pcb/                     # PCB designs (optional)
 │   └── BOM.md                   # Bill of materials
-│
-├── examples/                    # Example projects
-│   ├── basic_motion/            # Simple back-and-forth motion
-│   ├── cnc_router/              # CNC router application
-│   ├── pick_and_place/          # Pick & place robot
-│   └── position_tracking/       # Position feedback system
-│
-└── tools/                       # Utility tools
-    ├── parameter_generator/     # Generate driver parameters
-    ├── speed_calculator/        # Calculate pulse frequencies
-    └── serial_monitor/          # Enhanced serial interface
+
 ```
 
 ---
